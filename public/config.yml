@@ -1,0 +1,137 @@
+baseURL: "https://csvass.github.io"
+title: CsendesBlog
+languageCode: hu
+paginate: 5
+theme: hugo-PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+           
+languages:
+      hu:
+        languageName: ":hu:"
+        weight: 1   
+        homeInfoParams:
+            Title: "Szia! \U0001F44B"
+            Content: Üdv a blogomon! Azért indítottam ezt az oldalt, hogy megismerjem és gyakoroljam a webes technológiákat, valmint újakat tanuljak.
+        menu:
+            main:
+                - name: Archívum
+                  url: archives
+                  weight: 5
+                - name: Kulcsszavak
+                  url: tags/
+                  weight: 10
+                - name: Témák
+                  url: categories/
+                  weight: 10
+                - name: Keresés
+                  url: archive/
+                  weight: 20
+      en: 
+        languageName: ":en:"
+        weight: 2   
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Categories
+                  url: categories/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Search
+                  url: archive/
+                  weight: 20
+                
+                
+ 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+params:
+    env: production
+    title: "Személyes Github blog"
+    tagline: "GitHub oldalam PaperMod témával"
+    description: "Önkifejezési gyakorlatok és informatikai eszközök."
+    author: Csaba Vass
+    GitHubUser: "csendesbob"
+    LinkedInUser: "vass-csaba"
+    TwitterUser: "csendesbob"
+    
+    
+    # author: ["Me", "You"] # multiple authors
+
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    comments: true
+    defaultTheme: auto
+    disableThemeToggle: false
+    disableSpecial1stPost: false
+        
+
+    assets:
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "CsendesBlog"   
+  # profile-mode
+    profileMode:
+       enabled: false # needs to be explicitly set
+       Title: "CsendesBlog"
+       Content: >
+        Légy üdvözölve olvasó!
+        buttons:
+           - name: Posts
+           url: posts
+           - name: Tags
+           url: tags
+
+        # imageUrl: '<img location>'
+        # imageTitle: my image
+       
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi There \U0001F44B"
+        Content: This is my Github page/blog abut useful web tools. I started it for learning purposes. I would like to improve my programming knowledge.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/csvass/csvass.github.io"
+        - name: linkedin
+          url: "https://linkedin.com/vass-csaba"  
+        - name: twitter
+          url: "https://twitter.com/csendesbob"
+     
+    
+
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: about
+          url: /about/
+          weight: 30
