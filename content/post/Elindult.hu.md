@@ -1,21 +1,21 @@
 ---
 layout: post
-title: indul
+title: Indul
 author: csvass
 language: hu
 categories: test
 comments: true
-date: 2020-12-31
+date: 2021-01-21
 tags:
 - hi
 - hugo
 - blog
 - tutorial
 
-url: /:year/:month/:day/:title
+url: /2021/01/21/indul
 ---
 
-# Íme!
+## Íme!
 
 Komoly küzdelmek árán talán sikerült elindítani a blogot, a Hugo segítségével generált oldal alapján. A beállított téma sajna még nem működik. 
 
