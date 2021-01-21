@@ -2,6 +2,7 @@ baseURL: "https://csvass.github.io"
 title: CsendesBlog
 languageCode: hu
 paginate: 5
+remote_theme: adityatelange/hugo-PaperMod
 theme: PaperMod
 
 enableInlineShortcodes: true
