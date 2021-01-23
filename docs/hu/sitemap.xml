@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/blog/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/categories/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/hi/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/hugo/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/2021/01/21/indul/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/post/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/categories/test/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/categories/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/tutorial/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/git/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/2021/01/08/github/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/categories/github/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/tags/post/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/2020/12/31/elso/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/2021/01/11/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/2020/12/31/elso/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/archives/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.github.io/hu/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.github.io/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.github.io/hu/archive/"
+                />
+  </url>
+  
+</urlset>
