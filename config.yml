@@ -5,7 +5,7 @@ paginate: 5
 remote_theme: adityatelange/hugo-PaperMod
 theme: PaperMod
 
-publishDir: "docs"
+publishDir: "public"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
