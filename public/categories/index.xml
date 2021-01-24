@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CsendesBlog</title>
+    <link>https://csvass.github.io/categories/</link>
+    <description>Recent content in Categories on CsendesBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 11 Jan 2021 21:34:12 +0100</lastBuildDate><atom:link href="https://csvass.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://csvass.github.io/categories/test/</link>
+      <pubDate>Mon, 11 Jan 2021 21:34:12 +0100</pubDate>
+      
+      <guid>https://csvass.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
