@@ -3,165 +3,165 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/blog/</loc>
+    <loc>https://csvass.netlify.app/hu/tags/blog/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/categories/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csvass.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://csvass.github.io/hu/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csvass.github.io/hu/</loc>
+    <loc>https://csvass.netlify.app/hu/categories/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/"
+                href="https://csvass.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/"
+                href="https://csvass.netlify.app/hu/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/hi/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://csvass.github.io/hu/tags/hugo/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://csvass.github.io/2021/01/21/indul/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://csvass.github.io/hu/post/</loc>
+    <loc>https://csvass.netlify.app/hu/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/post/"
+                href="https://csvass.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/post/"
+                href="https://csvass.netlify.app/hu/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/</loc>
+    <loc>https://csvass.netlify.app/hu/tags/hi/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/hu/tags/hugo/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/2021/01/21/indul/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/hu/post/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/tags/"
+                href="https://csvass.netlify.app/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/tags/"
+                href="https://csvass.netlify.app/hu/post/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/categories/test/</loc>
+    <loc>https://csvass.netlify.app/hu/tags/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/categories/test/"
+                href="https://csvass.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/categories/test/"
+                href="https://csvass.netlify.app/hu/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/tutorial/</loc>
+    <loc>https://csvass.netlify.app/hu/categories/test/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/categories/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/hu/tags/tutorial/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/git/</loc>
+    <loc>https://csvass.netlify.app/hu/tags/git/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/2021/01/08/github/</loc>
+    <loc>https://csvass.netlify.app/2021/01/08/github/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/categories/github/</loc>
+    <loc>https://csvass.netlify.app/hu/categories/github/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/tags/post/</loc>
+    <loc>https://csvass.netlify.app/hu/tags/post/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://csvass.github.io/2020/12/31/elso/</loc>
+    <loc>https://csvass.netlify.app/2020/12/31/elso/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/2021/01/11/first/"
+                href="https://csvass.netlify.app/2021/01/11/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/2020/12/31/elso/"
+                href="https://csvass.netlify.app/2020/12/31/elso/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/archives/</loc>
+    <loc>https://csvass.netlify.app/hu/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/archives/"
+                href="https://csvass.netlify.app/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/archives/"
+                href="https://csvass.netlify.app/hu/archives/"
                 />
   </url>
   
   <url>
-    <loc>https://csvass.github.io/hu/archive/</loc>
+    <loc>https://csvass.netlify.app/hu/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.github.io/archive/"
+                href="https://csvass.netlify.app/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.github.io/hu/archive/"
+                href="https://csvass.netlify.app/hu/archive/"
                 />
   </url>
   

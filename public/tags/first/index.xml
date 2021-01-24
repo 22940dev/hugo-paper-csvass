@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>first on CsendesBlog</title>
-    <link>https://csvass.github.io/tags/first/</link>
+    <link>https://csvass.netlify.app/tags/first/</link>
     <description>Recent content in first on CsendesBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 11 Jan 2021 21:34:12 +0100</lastBuildDate><atom:link href="https://csvass.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 21:34:12 +0100</lastBuildDate><atom:link href="https://csvass.netlify.app/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://csvass.github.io/2021/01/11/first/</link>
+      <link>https://csvass.netlify.app/2021/01/11/first/</link>
       <pubDate>Mon, 11 Jan 2021 21:34:12 +0100</pubDate>
       
-      <guid>https://csvass.github.io/2021/01/11/first/</guid>
+      <guid>https://csvass.netlify.app/2021/01/11/first/</guid>
       <description>My first post This is my first post.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>github on CsendesBlog</title>
-    <link>https://csvass.github.io/hu/categories/github/</link>
+    <link>https://csvass.netlify.app/hu/categories/github/</link>
     <description>Recent content in github on CsendesBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.github.io/hu/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/categories/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
-      <link>https://csvass.github.io/2021/01/08/github/</link>
+      <link>https://csvass.netlify.app/2021/01/08/github/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/2021/01/08/github/</guid>
+      <guid>https://csvass.netlify.app/2021/01/08/github/</guid>
       <description>Ismerkedés a GitHubbal Hogyan kerültem kapcsolatba a GitHubbal? Jónéhány évvel ezelőtt kezdtem el használni a Memento Database Android alkalmazást. Mivel nem volt magyar nyelvű felülete és lehetőséget biztosítottak a fordításban való részvételre, hát belevágtam. Talán ehhez kellett egy GitHub regisztráció&amp;hellip; Ha meg is néztem az oldalt, nem igazán tudtam mit kezdeni vele. Aztán időről időre, egyre többször, különböző alkalmazások után kutatva, rendre ezen az ldalon kötöttem ki. Információk, dokumentáció és persze a kódok, amiknek a jó részáről csak sejtettem, hogy micsoda.</description>
     </item>
     

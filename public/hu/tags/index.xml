@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CsendesBlog</title>
-    <link>https://csvass.github.io/hu/tags/</link>
+    <link>https://csvass.netlify.app/hu/tags/</link>
     <description>Recent content in Tags on CsendesBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.github.io/hu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://csvass.github.io/hu/tags/blog/</link>
+      <link>https://csvass.netlify.app/hu/tags/blog/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/blog/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hi</title>
-      <link>https://csvass.github.io/hu/tags/hi/</link>
+      <link>https://csvass.netlify.app/hu/tags/hi/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/hi/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/hi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://csvass.github.io/hu/tags/hugo/</link>
+      <link>https://csvass.netlify.app/hu/tags/hugo/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/hugo/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://csvass.github.io/hu/tags/tutorial/</link>
+      <link>https://csvass.netlify.app/hu/tags/tutorial/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/tutorial/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://csvass.github.io/hu/tags/git/</link>
+      <link>https://csvass.netlify.app/hu/tags/git/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/git/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>https://csvass.github.io/hu/tags/post/</link>
+      <link>https://csvass.netlify.app/hu/tags/post/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/hu/tags/post/</guid>
+      <guid>https://csvass.netlify.app/hu/tags/post/</guid>
       <description></description>
     </item>
     

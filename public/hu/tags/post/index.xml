@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post on CsendesBlog</title>
-    <link>https://csvass.github.io/hu/tags/post/</link>
+    <link>https://csvass.netlify.app/hu/tags/post/</link>
     <description>Recent content in post on CsendesBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.github.io/hu/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>üdv</title>
-      <link>https://csvass.github.io/2020/12/31/elso/</link>
+      <link>https://csvass.netlify.app/2020/12/31/elso/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://csvass.github.io/2020/12/31/elso/</guid>
+      <guid>https://csvass.netlify.app/2020/12/31/elso/</guid>
       <description>Az első bejegyzésem Ez itt az első bejegyzés!</description>
     </item>
     

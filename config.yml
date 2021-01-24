@@ -1,4 +1,4 @@
-baseURL: "https://csvass.github.io"
+baseURL: "https://csvass.netlify.app"
 title: CsendesBlog
 languageCode: hu
 paginate: 5
@@ -114,7 +114,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/csvass/csvass.github.io"
+          url: "https://github.com/csvass"
         - name: linkedin
           url: "https://linkedin.com/vass-csaba"  
         - name: twitter
