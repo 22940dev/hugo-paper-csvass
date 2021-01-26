@@ -6,7 +6,17 @@
     <description>Recent content on CsendesBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://csvass.netlify.app/2021/01/25/md/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csvass.netlify.app/2021/01/25/md/</guid>
+      <description>Markdown Talán ez volt az egyik kiindulópont. Szeretek írni. Legyen szó jegyzetekről, teendőkről, dokumentum-, honlapszerkesztésről, napló- vagy blogbejegyzésekről, szívesen jegyzem le a gondolataimat. Előszeretettel használom a számítógépet és olyan szoftwereket, alkalmazásokat, amiket akár asztali gépen, akár mobiltelefonon egyaránt tudok használni. Több olyan alkalmazást is használok, használtam amik támogatják a Markdownt.
+De mi is ez valójában? Egyfajta leíró nyelv, ami lehetővé teszi egyszerű jelekkel, hogy a szöveg gépelése közben formázzuk azt, anélkül, hogy közben akár kódokkal, akár más módon a formázással kellene bíbelődni.</description>
+    </item>
+    
     <item>
       <title>Indul</title>
       <link>https://csvass.netlify.app/2021/01/21/indul/</link>

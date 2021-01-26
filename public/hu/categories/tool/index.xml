@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tool on CsendesBlog</title>
+    <link>https://csvass.netlify.app/hu/categories/tool/</link>
+    <description>Recent content in tool on CsendesBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://csvass.netlify.app/2021/01/25/md/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csvass.netlify.app/2021/01/25/md/</guid>
+      <description>Markdown Talán ez volt az egyik kiindulópont. Szeretek írni. Legyen szó jegyzetekről, teendőkről, dokumentum-, honlapszerkesztésről, napló- vagy blogbejegyzésekről, szívesen jegyzem le a gondolataimat. Előszeretettel használom a számítógépet és olyan szoftwereket, alkalmazásokat, amiket akár asztali gépen, akár mobiltelefonon egyaránt tudok használni. Több olyan alkalmazást is használok, használtam amik támogatják a Markdownt.
+De mi is ez valójában? Egyfajta leíró nyelv, ami lehetővé teszi egyszerű jelekkel, hogy a szöveg gépelése közben formázzuk azt, anélkül, hogy közben akár kódokkal, akár más módon a formázással kellene bíbelődni.</description>
+    </item>
+    
+  </channel>
+</rss>
