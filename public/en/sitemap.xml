@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://csvass.netlify.app/tags/blog/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/tags/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://csvass.netlify.app/categories/</loc>
-    <lastmod>2021-01-11T21:34:12+01:00</lastmod>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>https://csvass.netlify.app/</loc>
-    <lastmod>2021-01-11T21:34:12+01:00</lastmod>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
@@ -29,6 +44,106 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://csvass.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/tags/hi/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/tags/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/tags/hi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/tags/hugo/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/tags/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/tags/netlify/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/post/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/2021/01/28/start/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/tags/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/categories/test/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/categories/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csvass.netlify.app/tags/tutorial/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://csvass.netlify.app/hu/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csvass.netlify.app/tags/tutorial/"
                 />
   </url>
   
@@ -53,47 +168,16 @@
   </url>
   
   <url>
-    <loc>https://csvass.netlify.app/post/</loc>
-    <lastmod>2021-01-11T21:34:12+01:00</lastmod>
+    <loc>https://csvass.netlify.app/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://csvass.netlify.app/hu/post/"
+                href="https://csvass.netlify.app/hu/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csvass.netlify.app/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csvass.netlify.app/tags/</loc>
-    <lastmod>2021-01-11T21:34:12+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://csvass.netlify.app/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csvass.netlify.app/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csvass.netlify.app/categories/test/</loc>
-    <lastmod>2021-01-11T21:34:12+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://csvass.netlify.app/hu/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csvass.netlify.app/categories/test/"
+                href="https://csvass.netlify.app/about/"
                 />
   </url>
   

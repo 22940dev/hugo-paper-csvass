@@ -1,10 +1,10 @@
 ---
 author: csvass
 title: Rólam
-url: /about/
+url: /about/rolam
 sidebar: true
 weight: "1"
-type: fixed
+
 ---
 
 ## Rólam

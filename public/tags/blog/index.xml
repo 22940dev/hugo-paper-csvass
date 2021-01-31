@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on CsendesBlog</title>
+    <link>https://csvass.netlify.app/tags/blog/</link>
+    <description>Recent content in blog on CsendesBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start [draft]</title>
+      <link>https://csvass.netlify.app/2021/01/28/start/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csvass.netlify.app/2021/01/28/start/</guid>
+      <description>It started! I had some issues but finally my hogo generated blog is working now.
+Prepare  get familiar with command line and git a bit markdown and yaml/toml syntax knowledge will be useful install git + Github Desktop and hugo on your desktop  Start  Create a GitHub repository add readme.md and clone it to your desktop Create a page with hugo in the folder of the cloned repo hugo new site git clone or add as a submodule a selected theme Create config.</description>
+    </item>
+    
+  </channel>
+</rss>

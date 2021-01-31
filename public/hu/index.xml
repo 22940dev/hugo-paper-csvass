@@ -8,6 +8,15 @@
     <language>hu</language>
     <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csvass.netlify.app/hu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Rólam</title>
+      <link>https://csvass.netlify.app/about/rolam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csvass.netlify.app/about/rolam/</guid>
+      <description>Rólam Apa, férj, és könyvtáros vagyok. Sokminden érdekel. Szeretek a ház körül és a kertben tevékenykedni, érdekel az informatika vilga. Hobbim az írás bármilyen formában.</description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>https://csvass.netlify.app/2021/01/25/md/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -63,6 +72,15 @@ Nagyon röviden:
       
       <guid>https://csvass.netlify.app/hu/archive/</guid>
       <description>search</description>
+    </item>
+    
+    <item>
+      <title>Rólam</title>
+      <link>https://csvass.netlify.app/hu/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csvass.netlify.app/hu/about/</guid>
+      <description>about</description>
     </item>
     
   </channel>
