@@ -35,9 +35,9 @@ languages:
                 - name: Keresés
                   url: archive/
                   weight: 20
-		- name: Rólam
-		  url: about/
- 		  weight: 20
+                - name: Rólam
+                  url: about/
+                  weight: 20
       en: 
         languageName: ":en:"
         weight: 2   
@@ -55,9 +55,9 @@ languages:
                 - name: Search
                   url: archive/
                   weight: 20
-		- name: About
-		  url: about/
- 		  weight: 20
+                - name: About
+                  url: about/
+                  weight: 20
                 
                 
  
