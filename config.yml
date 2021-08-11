@@ -87,7 +87,7 @@ params:
        enabled: false # needs to be explicitly set
        Title: "Thoughts"
        Content: >
-         testing
+        My thoughts!
         buttons:
            - name: Posts
            url: posts
