@@ -81,12 +81,13 @@ params:
     #    safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "CsendesBlog"   
+        text: "Thoughts"   
   # profile-mode
     profileMode:
        enabled: false # needs to be explicitly set
-       Title: "CsendesBlog"
-       Content: testing
+       Title: "Thoughts"
+       Content: >
+         testing
         buttons:
            - name: Posts
            url: posts
