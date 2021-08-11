@@ -1,4 +1,4 @@
-baseURL: "https://csvass.netlify.app"
+baseURL: "https://hugo-papermod-tags-v1.netlify.app"
 title: CsendesBlog
 languageCode: hu
 paginate: 5
@@ -15,29 +15,7 @@ minify:
     # minifyOutput: true
            
 languages:
-      hu:
-        languageName: ":hu:"
-        weight: 1   
-        homeInfoParams:
-            Title: "Szia! \U0001F44B"
-            Content: Üdv a blogomon! Azért indítottam ezt az oldalt, hogy megismerjem és gyakoroljam a webes technológiákat, valmint újakat tanuljak. Leginkább irodai alkalmazások (naptár, teendők, jegyzetek), hatékony adatkezelési lehetőségek (táblázat, adatbázis), a kreatív írás eszközei (napló, blog) és a tartalmak szinkronizálása (felhő) érdekel.
-        menu:
-            main:
-                - name: Archívum
-                  url: archives
-                  weight: 5
-                - name: Kulcsszavak
-                  url: tags/
-                  weight: 10
-                - name: Témák
-                  url: categories/
-                  weight: 10
-                - name: Keresés
-                  url: archive/
-                  weight: 20
-                - name: Rólam
-                  url: about/
-                  weight: 20
+      
       en: 
         languageName: ":en:"
         weight: 2   
@@ -68,13 +46,13 @@ outputs:
         - JSON # is necessary
 params:
     env: production
-    title: "Személyes Github blog"
-    tagline: "GitHub oldalam PaperMod témával"
-    description: "Önkifejezési gyakorlatok és informatikai eszközök."
-    author: Csaba Vass
-    GitHubUser: "csendesbob"
-    LinkedInUser: "vass-csaba"
-    TwitterUser: "csendesbob"
+    title: "22940dev Github blog"
+    tagline: "GitHub  PaperMod"
+    description: "Hugo papermod template."
+    author: 22940dev
+    GitHubUser: "22940dev"
+    LinkedInUser: "doc22940"
+    TwitterUser: "alec"
     
     
     # author: ["Me", "You"] # multiple authors
@@ -120,11 +98,11 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/csvass"
+          url: "https://github.com/22940dev"
         - name: linkedin
-          url: "https://linkedin.com/vass-csaba"  
+          url: "https://linkedin.com/doc22940"  
         - name: twitter
-          url: "https://twitter.com/csendesbob"
+          url: "https://twitter.com/alec"
      
     
 
