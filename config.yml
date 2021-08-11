@@ -1,6 +1,6 @@
 baseURL: "https://hugo-papermod-tags-v1.netlify.app"
 title: CsendesBlog
-languageCode: hu
+languageCode: en
 paginate: 5
 theme: PaperMod
 
@@ -21,8 +21,11 @@ languages:
         weight: 2   
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: Bookmarks
+                  url: bookmarks/
+                  weight: 5
+                - name: Opensource
+                  url: opensource/
                   weight: 5
                 - name: Categories
                   url: categories/
@@ -32,6 +35,9 @@ languages:
                   weight: 10
                 - name: Search
                   url: archive/
+                  weight: 20
+                - name: Archive
+                  url: archives
                   weight: 20
                 - name: About
                   url: about/
@@ -80,8 +86,7 @@ params:
     profileMode:
        enabled: false # needs to be explicitly set
        Title: "CsendesBlog"
-       Content: >
-        Légy üdvözölve olvasó!
+       Content: testing
         buttons:
            - name: Posts
            url: posts
